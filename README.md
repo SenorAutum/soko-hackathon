@@ -5,8 +5,8 @@
 This repository contains the complete source code for SOKO, a decentralized P2P energy trading platform built on Hedera.
 
 * **Live Demo:** `https://sokoenergy.netlify.app/`
-* **Demo Video:** `[LINK TO YOUR 3-MINUTE YOUTUBE VIDEO]`
-* **Pitch Deck:** `[LINK TO YOUR PITCH DECK PDF]`
+* **Demo Video:** `https://youtu.be/4auIKEPhsnU`
+* **Pitch Deck:** `https://gamma.app/docs/SOKO-Local-Energy-That-Pays-wh494sg2ui776k0
 
 ## Hackathon Compliance
 
